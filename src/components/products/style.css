@@ -1,0 +1,18 @@
+.addBtn{
+    padding: 0.8rem;
+    background: #f0c040;
+    border-radius: 4px;
+    border: none;
+  }
+  .product-price-btn-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .product-descriptin a {
+    text-decoration: none;
+  }
+  .product-image-container img{
+    width: 280px;
+    height: 370px;
+  }
